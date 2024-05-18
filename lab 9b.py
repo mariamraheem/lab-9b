@@ -7,6 +7,7 @@ Created on Fri May 17 22:23:45 2024
 """
 
 # Mariam Raheem
+# Link to GitHub Repo: https://github.com/mariamraheem/lab-9b.git 
 
 from numpy import random, mean
 
